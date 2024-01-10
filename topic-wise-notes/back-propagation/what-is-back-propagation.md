@@ -8,7 +8,7 @@
 
 Basically, used to train a neural network.
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Simple neural network" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (1).svg" alt="Simple neural network" class="gitbook-drawing">
 
 _We'll be referencing the above diagram throughout the notes_
 
