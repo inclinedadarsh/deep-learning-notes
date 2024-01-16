@@ -19,7 +19,7 @@ We'll consider the following dataset and we'll train a model by writing our own 
 
 Below is our simple neural network and we'll be training that only.
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Our neural network for this case" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (3).svg" alt="Our neural network for this case" class="gitbook-drawing">
 
 ### Algorithm
 
@@ -100,7 +100,7 @@ For classification problem we're going to consider a similar dataset.
 
 <table><thead><tr><th data-type="number">CGPA</th><th data-type="number">Resume Score</th><th data-type="number">Is palced?</th></tr></thead><tbody><tr><td>8</td><td>8</td><td>1</td></tr><tr><td>7</td><td>9</td><td>1</td></tr><tr><td>6</td><td>10</td><td>0</td></tr><tr><td>5</td><td>5</td><td>0</td></tr></tbody></table>
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Our neural network for this case" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (3).svg" alt="Our neural network for this case" class="gitbook-drawing">
 
 But this time, there are two differences:
 
